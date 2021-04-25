@@ -1,0 +1,37 @@
+@import url(<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap" rel="stylesheet">);
+body {
+	margin: 0;
+	padding: 0;
+	background: url(background.jpg) no-repeat;
+	background-size: cover; 
+}
+
+.box-text {
+	background-color: PeachPuff ;
+  width: 50%;
+  text-align: center;
+  border: 15px solid grey ;
+  padding: 50px;
+  margin: 20px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.box-img{
+	background-color: PeachPuff ;
+	background: rgba(0,0,0,0.4);
+  width: 100;
+  border: 15px solid grey ;
+  padding: 30px;
+  margin: 20px;
+}
+
+.box-h2{
+	text-shadow: 2px 2px;
+	padding: 50px
+}
+
+.box-h1{
+	text-shadow: 2px 2px;
+}
